@@ -1,1 +1,0 @@
-# Multilingual-Text-to-Image-Generator-Using-StableDiffusion
